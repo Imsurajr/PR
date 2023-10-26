@@ -72,8 +72,3 @@ git push origin my-new-branch
 
 <br>
 
-
-## Our Top Contributors 
-<p align="center"><a href="https://github.com/PrinceSah09/Striver-AtoZ-Solution-HacktoberFest-2023/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=PrinceSah09/Striver-AtoZ-Solution-HacktoberFest-2023" />
-</a></p>
